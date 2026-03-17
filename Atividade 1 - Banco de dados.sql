@@ -1,0 +1,1 @@
+SELECT * FROM `biblioteca`.`usuario` LIMIT 1000;
